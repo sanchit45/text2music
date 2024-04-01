@@ -2,7 +2,7 @@
 __pycache__/
 
 # Jupyter Notebook
-Notebooks/.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # virtual environment
 text2music
